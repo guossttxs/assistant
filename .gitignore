@@ -3,3 +3,6 @@
 .gitignore
 .idea/
 *.pyc
+pro_config.py
+__pycache__/
+celery_module/__pycache__/
